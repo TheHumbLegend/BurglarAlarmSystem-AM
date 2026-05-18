@@ -308,16 +308,14 @@ Potential extensions:
 
 - Cloud event notifications
 - Mobile app integration
-- RFID authentication
 - Database-backed user storage
-- Remote access dashboard
 - Encrypted credential storage
 
 ---
 
 # Authors
 
-**Group 8**
+**Rotimi Dayo as apart of Group 8**
 
 Developed as an embedded systems and intelligent security systems project integrating:
 
