@@ -1,8 +1,8 @@
 # BurglarAlarmSystem-AM
 
-A multi-layer intelligent burglar alarm and access control system integrating **Arduino hardware control**, **Python-based facial recognition**, and a **MATLAB supervisory control interface**.
+A multi-layer intelligent burglar alarm and access control system integrating Arduino hardware control, Python-based facial biometric authentication, and a MATLAB supervisory control and user interface.
 
-The system combines physical intrusion detection, biometric authentication, PIN-based access control, physical-key authentication, alarm handling, and event logging into a modular embedded security platform.
+The system combines physical intrusion detection, biometric authentication, PIN-based access control, physical-key authentication, alarm handling, and event logging into a modular embedded security platform made using OOP techniques.
 
 ---
 
