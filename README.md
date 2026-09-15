@@ -36,9 +36,8 @@ When motion or another relevant security event is detected:
 
    * Access is denied.
    * The door remains locked.
-   * The appropriate security response is initiated.
 
-### Physical Key Authentication
+### Physical Key Authentication - Using a button to simulate a physical key
 
 The physical key provides an alternative access route.
 
