@@ -324,7 +324,7 @@ These events can be viewed through the MATLAB supervisory interface.
 
 # Communication
 
-The system uses serial communication to integrate the Arduino, Python, and MATLAB subsystems.
+The system uses serial communication to between the Arduino and the MATLAB App **same COM as the Arduino**, and since serial is a one to one connection the MATLAB and Python facial recognition script communicated via `command.txt` and `status.etxt` where both programs poll (read/write) for instructions. The persistent pin `pin.txt` is polled by MATLAB and sent to Arduino on startup when button "Connect" is pressed.
 
 ## MATLAB → Python
 
@@ -346,8 +346,6 @@ Supported commands include:
 * `ADD_PROFILE`
 * `CHANGE_PIN`
 * `DISABLE_SENSOR`
-
-Python facial-recognition status information is also communicated back to the supervisory system to allow MATLAB to monitor the authentication process.
 
 ---
 
@@ -447,7 +445,7 @@ Potential extensions include:
 
 **Rotimi Dayo — Group 8**
 
-Thoughts: Pretty long project, couldn't implement all the things we planned too because of time constraint, should have used python as the GUI
+Thoughts: Pretty long project, couldn't implement all the things we planned too because of time constraint. Should have used python as the GUI. 
 
 Embedded systems and intelligent security systems project integrating:
 
