@@ -99,39 +99,6 @@ Provides a graphical control panel for system management.
 
 ---
 
-# Project Structure
-
-```text
-BurglarAlarmSystem/
-│
-├── BurglarAlarm/
-│   ├── BurglarAlarm.ino
-│   ├── SystemController.h
-│   ├── Sensor.h
-│   ├── Siren.h
-│   ├── StrobeLight.h
-│   ├── DoorLock.h
-│   ├── PhysicalKey.h
-│   ├── Keypad.h
-│   ├── DisplayPanel.h
-│   ├── EventLog.h
-│   ├── Database.h
-│   └── User.h
-│
-├── face_recognition_system.py
-├── BurglarAlarmApp.mlapp
-│
-├── known_faces/
-│   ├── <user folders>
-│
-├── command.txt
-├── status.txt
-├── pin.txt
-└── graceperiod.txt
-```
-
----
-
 # Hardware Components
 
 ## Inputs
