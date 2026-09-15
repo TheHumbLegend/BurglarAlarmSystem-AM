@@ -416,7 +416,7 @@ Launch the application using **MATLAB App Designer**.
 
 <img width="1332" height="807" alt="image" src="https://github.com/user-attachments/assets/064f3163-8d43-4f31-a5de-83f6a3ef91dd" />
 
-link: [UML ACTIVITY DIAGRAM](urlhttps://lucid.app/lucidchart/d53ff269-30cf-4212-b2a1-4b61f015c277/edit?viewport_loc=-3483%2C-4026%2C7555%2C4215%2CKFllJB8AmW0b8&invitationId=inv_888bfe6b-80bd-4d2a-af8b-98526591908a)
+link: [UML ACTIVITY DIAGRAM](https://lucid.app/lucidchart/d53ff269-30cf-4212-b2a1-4b61f015c277/edit?viewport_loc=-3483%2C-4026%2C7555%2C4215%2CKFllJB8AmW0b8&invitationId=inv_888bfe6b-80bd-4d2a-af8b-98526591908a)
 
 <img width="1245" height="903" alt="image" src="https://github.com/user-attachments/assets/eb9fe364-ce40-4c1b-9b87-005456c60053" />
 
